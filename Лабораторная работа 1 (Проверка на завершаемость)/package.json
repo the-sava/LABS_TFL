@@ -1,0 +1,19 @@
+{
+  "name": "lab_1",
+  "version": "1.0.0",
+  "description": "Лаборатоная работа 1",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dist/index.js"
+  },
+  "author": "Sava",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.6.0",
+    "prettier": "3.1.0",
+    "typescript": "^5.2.2"
+  }
+}
